@@ -55,7 +55,7 @@ __以下のイベント等に展示しました__
 2. 解凍してteam.exeを実行  
 [ダウンロードリンク](https://drive.google.com/file/d/1SxxUsJdjEVzcIvMOFYjN9YaEojL1tnPU/view?usp=sharing)  
 
-- 必要機材
+- 必要機材  
 **_ソロプレイ_**
 ・コントローラー(推奨)
 ・キーボード 
