@@ -43,7 +43,7 @@ __以下のイベント等に展示しました__
 - デバッグ・難易度調整
 を担当しました。  
 ソースコード等の確認は
-[こちら](https://github.com/hw23a152/burnout/tree/main/Assets/Yamaguchi/scr)
+[こちら](https://github.com/hw23a152/burnout/tree/main/Assets/Yamaguchi/)
 をご確認ください。
 ## 実行方法
 - 開発画面の場合
