@@ -74,5 +74,5 @@ __キーボードの場合__
 - プランナー 2人
 
 ## ポートフォリオ一覧に戻る
-https://github.com/hw23a152/burnoutportfolio.git
+[ポートフォリオ一覧はこちら](https://github.com/hw23a152/portfolio)
 
