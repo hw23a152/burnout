@@ -53,9 +53,15 @@ __以下のイベント等に展示しました__
 - 実行ファイルの場合(windowsのみ)  
 1. GoogleDriveからzipファイルをダウンロード  
 2. 解凍してteam.exeを実行  
-[ダウンロードリンク](https://drive.google.com/file/d/1SxxUsJdjEVzcIvMOFYjN9YaEojL1tnPU/view?usp=sharing)
+[ダウンロードリンク](https://drive.google.com/file/d/1SxxUsJdjEVzcIvMOFYjN9YaEojL1tnPU/view?usp=sharing)  
 
-
+- 必要機材
+**_ソロプレイ_**
+・コントローラー(推奨)
+・キーボード 
+**_マルチプレイ_**
+・コントローラー二台
+  
 - 操作方法  
 __キーボードの場合__  
 ・赤のキャラクター:移動(W,A,S,D), 宝箱を持つ(F長押し)  
