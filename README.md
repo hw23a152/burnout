@@ -51,7 +51,7 @@ __以下のイベント等に展示しました__
 - 実行ファイルの場合(windowsのみ)  
 1. GoogleDriveからzipファイルをダウンロード  
 2. 解凍してteam.exeを実行  
-[ダウンロードリンク](https://drive.google.com/file/d/1L-F4DIjL6IiotbHx8Aw4xfWYDA22db4r/view?usp=sharing)
+[ダウンロードリンク](https://drive.google.com/drive/folders/1Q8Rsv-Hnh2q-T67aRhnc1eLPNf_Brr05)
 
 
 - 操作方法  
