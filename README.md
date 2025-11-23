@@ -8,7 +8,7 @@ __以下のイベント等に展示しました__
 - ゲームパビリオンjp
 
 ## サンプル画像
-![サンプル画像](https://github.com/kiri070/TeamDevelopmentGame/blob/main/Images/sampleImage01.png)
+![サンプル画像](https://github.com/hw23a152/burnout/blob/main/Image/sampleImage01.png)
 
 
 [ゲーム紹介ウェブサイト](https://oecu-games.itch.io/burnout)
